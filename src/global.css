@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Palanquin+Dark&family=Questrial&display=swap');
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	font-family: 'Questrial', sans-serif;
+	cursor: default;
+}
