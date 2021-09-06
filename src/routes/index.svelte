@@ -58,7 +58,7 @@
 		transform: rotate(16deg);
 		width: 300px;
 		height: 10px;
-		position: absolute;
+		position: relative;
 		margin-left: 310px;
 		font-size: 40px;
 	}

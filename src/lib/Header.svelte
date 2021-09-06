@@ -1,13 +1,13 @@
 <header>
 	<nav>
-		<a href="/Homepage"> Apple </a>
+		<a href="/"> Apple </a>
 		<a
 			target="_"
 			href="https://www.apple.com/ca/?afid=p238%7CsEnMtlDRF-dc_mtid_1870765e38482_pcrid_537284617865_pgrid_39429562932_&cid=aos-ca-kwGO-brand--slid---product-"
 		>
 			Store
 		</a>
-		<a href="/Contact"> Contact </a>
+		<a href="mailto:apple@apple.apple"> Contact </a>
 	</nav>
 </header>
 
