@@ -34,7 +34,7 @@
 		<br />
 		<br />
 		<br />
-		<li>This is all a joke apple is hella good</li>
+		<li>shlami</li>
 		<br />
 		<li>We are all about looks. Functionality who?</li>
 		<br />
@@ -44,7 +44,7 @@
 		<br />
 		<li>We just put a sticker the camera doesn't even work</li>
 		<br />
-		<li>Golden hour!!!!</li>
+		<li>Mana Shleena</li>
 		<br />
 		<li>Accomplish nothing</li>
 		<br />
